@@ -15,19 +15,6 @@ I'm a passionate mobile developer with a keen interest in building intuitive and
 
 [![Rajwant's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajwantkaur27&count_private=true&show_icons=true&theme=radical)](https://github.com/rajwantkaur27)
 
-## 📱 Projects
-
-### 🎉 Featured
-
-- [**Awesome iOS App**](https://github.com/rajwantkaur27/awesome-ios-app) - A stunning iOS app that simplifies task management.
-  ![Awesome iOS App](https://github-readme-stats.vercel.app/api/pin/?username=rajwantkaur27&repo=awesome-ios-app&show_owner=true)
-
-- [**Android Masterpiece**](https://github.com/rajwantkaur27/android-masterpiece) - An Android app that showcases advanced UI/UX techniques.
-  ![Android Masterpiece](https://github-readme-stats.vercel.app/api/pin/?username=rajwantkaur27&repo=android-masterpiece&show_owner=true)
-
-### 📱 Other Projects
-
-- [React Native Project](https://github.com/rajwantkaur27/react-native-project) - A cross-platform mobile app built with React Native.
 
 ## 🌱 Currently Learning
 
