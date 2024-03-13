@@ -15,6 +15,12 @@ I'm a passionate mobile developer with a keen interest in building intuitive and
 
 [![Rajwant's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajwantkaur27&count_private=true&show_icons=true&theme=radical)](https://github.com/rajwantkaur27)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajwantkaur27&layout=compact&theme=radical)](https://github.com/rajwantkaur27)
+
+## 📈 Contribution Graph
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=rajwantkaur27&theme=react-dark)
+
 
 ## 🌱 Currently Learning
 
